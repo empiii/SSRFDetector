@@ -16,7 +16,7 @@ Esta extensão para o Burp Suite busca por parâmetros em solicitações POST qu
 
 ## Instalação
 
-1. Baixe o arquivo Jython (.jar) da extensão.
+1. Baixe o arquivo Jython (.jar) da extensão na versão 2.7.3.
 2. No Burp Suite, vá para "Extender" > "Extender Configurações".
 3. Clique em "Add" e selecione o arquivo Jython (.jar) baixado.
 4. A extensão será carregada e estará disponível no Burp Suite.
