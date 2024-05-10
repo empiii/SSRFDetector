@@ -1,6 +1,6 @@
 # SSRF Detector
 
-Esta extensão para o Burp Suite busca por parâmetros em solicitações POST que contenham matchs começando com "http" ou "https", indicando potenciais vulnerabilidades de SSRF (Server-Side Request Forgery) e Path Traversal através de requisção do parametro encontrado. 
+Esta extensão para o Burp Suite busca por parâmetros em solicitações POST que contenham matchs começando com "http" ou "https", indicando potenciais vulnerabilidades de SSRF (Server-Side Request Forgery) e Path Traversal através de requisção do parametro encontrado no body da requisição.
 
 ## Funcionalidades
 
