@@ -28,5 +28,7 @@ Esta extensão para o Burp Suite busca por parâmetros em solicitações POST qu
 
 # PoC
 
+Utlizando ambiente SSRF labs - PortSwigger como Prova de Conceito.
+
 https://github.com/empiii/SSRFDetector/assets/47393806/f48fc006-1323-45d5-8c03-dd511ce02330
 
